@@ -12,7 +12,7 @@ public class GitTest {
         System.out.println("master fix!");
         System.out.println("hot fix!");
         System.out.println("test github!");
-
+        System.out.println("!");
 
     }
 }
